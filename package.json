@@ -1,34 +1,17 @@
 {
-  "name": "quantumx-bot",
+  "name": "quantumx-session",
   "version": "1.0.0",
-  "description": "🚀 Quantum X – A futuristic WhatsApp Multi-Device Bot with session generator, automation and plugins.",
+  "description": "Quantum X WhatsApp Session Generator",
   "main": "./quantumx.js",
   "engines": { 
     "npm": ">=9.7.2",
     "node": ">=20.0.0"
   },
   "scripts": {
-    "start": "node quantumx.js",
-    "dev": "nodemon quantumx.js"
+    "start": "node itxxwasi.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/yourusername/QuantumX.git"
-  },
-  "keywords": [
-    "QuantumX",
-    "WhatsApp Bot",
-    "Multi-Device",
-    "Session Generator",
-    "Automation",
-    "Baileys"
-  ],
-  "author": "Quantum X Devs <quantumx@protonmail.com>",
+  "author": "Quantum X Devs",
   "license": "GPL-3.0",
-  "bugs": {
-    "url": "https://github.com/yourusername/QuantumX/issues"
-  },
-  "homepage": "https://github.com/yourusername/QuantumX#readme",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.5.0",
     "maher-zubair-baileys": "^6.6.5",
@@ -40,8 +23,5 @@
     "pastebin-js": "^1.0.6",
     "express": "^4.18.1",
     "path": "^0.12.7"
-  },
-  "devDependencies": {
-    "nodemon": "^3.1.0"
   }
 }
