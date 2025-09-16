@@ -1,33 +1,46 @@
-# Wasi-Session-Generator
-- Kindly star my repo
-- Fork and edit as you wish
-- Deploy to your favourite hosting server eg Heroku or Render or self hosting
+# ⚡ QUANTUM X – WHATSAPP BOT  
 
-<strong>NB:<strong/> This repo also generates session ID for all bots using whiskeysockets/baileys
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-<br/>QR- WEB - PAIR CODE FOR BOT WITH WHISKEYSOCKETS/BAILEYS
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
-   <a href="https://github.com/Itxxwasi">
-    <img src="https://telegra.ph/file/da95ed969f943e4d61ca8.jpg" width="500">
-     
-</a>
- <p align="center"><img src="https://profile-counter.glitch.me/{Itxxwasi}/count.svg" alt="xcelsama:: Visitor's Count" /></p>
+  <img src="https://img.shields.io/badge/Quantum%20X-Futuristic%20Bot-blueviolet?style=for-the-badge&logo=whatsapp" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Made%20With-Node.js-green?style=for-the-badge&logo=node.js" />
+</p>
 
+<p align="center">
+  🤖 <b>Quantum X</b> is a next-gen WhatsApp Multi-Device Bot built for automation, fun and productivity.  
+  Deploy it easily, connect your WhatsApp, and enjoy futuristic bot power in your chats.
+</p>
 
+---
 
-[`ℹ️Contact Owner`](https://wa.me/923192173398)
+## 🚀 Getting Started  
 
-FORK THE REPOSITORY (Repo) 
-    <br>
-<a href="https://github.com/Itxxwasi/SESSION-GENERATOR/fork"><img title="WEB" src="https://img.shields.io/badge/FORK Wasi-QR?color=black&style=for-the-badge&logo=stackshare"></a>
+### 1️⃣ Fork This Repo  
+Tap the **Fork** button (top-right corner) and create your own copy.  
 
-Now Deploy
-    <br>
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Itxxwasi/SESSION-GENERATOR' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/>
+---
 
-[`HERE'S AN EXAMPLE OUTPUT`](https://wasi-session-test-2d5de70f8522.herokuapp.com)
-# `Owner`
+### 2️⃣ Generate Your Session ID  
+1. Go to the **[Pair Code Generator](https://your-pair-code-link.com)**  
+2. Enter your WhatsApp number (e.g. `2349165445200`)  
+3. Get your **PAIR CODE / SESSION ID**  
+4. Save it somewhere safe ✅  
 
- <a href="https://github.com/Itxxwasi"><img src="https://github.com/Itxxwasi.png" width="250" height="250" alt="Itxx Me Wasi"/></a>
+---
 
+### 3️⃣ Deploy Quantum X  
+
+#### 🔹 Deploy to **Heroku**  
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)  
+
+#### 🔹 Deploy to **Render**  
+- Go to [Render](https://render.com)  
+- Create a new **Web Service**  
+- Connect your **forked repo**  
+- Add the required **environment variables** (see below)  
+- Click **Deploy** 🚀  
+
+#### 🔹 Deploy to **Vercel**  
+```bash
+npm install -g vercel
+vercel deploy
