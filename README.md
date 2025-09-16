@@ -42,43 +42,7 @@ Tap the **Fork** button (top-right corner) and create your own copy.
 
 #### 🔹 Deploy to **Vercel**  
 ```bash
-npm ins
-👥 Contributors
-
-Thanks to the amazing contributors who power Quantum X:
-
-👑 BOTMASTER350 – Core Maintainer & Futuristic Visionary
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-tall -g vercel
+npm install -g vercel
 vercel deploy
+👥 Contributors
+<p align="center"> <a href="https://github.com/BOTMASTER350"> <img src="https://img.shields.io/badge/BOTMASTER350-Core%20Maintainer-blue?style=for-the-badge&logo=github" /> </a> </p> <p align="center"> 🚀 Quantum X keeps growing thanks to our contributors. Want to be featured here? Fork the repo, contribute, and join the future! </p> ```
