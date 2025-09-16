@@ -42,5 +42,43 @@ Tap the **Fork** button (top-right corner) and create your own copy.
 
 #### 🔹 Deploy to **Vercel**  
 ```bash
-npm install -g vercel
+npm ins
+👥 Contributors
+
+Thanks to the amazing contributors who power Quantum X:
+
+👑 BOTMASTER350 – Core Maintainer & Futuristic Visionary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tall -g vercel
 vercel deploy
